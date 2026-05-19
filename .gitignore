@@ -1,0 +1,40 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files
+.env
+
+# H2 database files (if generated locally)
+*.mv.db
+*.trace.db
+
+# Build output
+out/
+bin/
