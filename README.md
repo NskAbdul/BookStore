@@ -117,17 +117,4 @@ When the app is running on port 8080, open your browser:
 }
 ```
 
----
 
-## 🔮 Future Improvements
-1. Implement Redis Caching for `/api/v1/books` and `/api/v1/categories`.
-2. Add API Rate Limiting using Bucket4j.
-3. Integrate Docker and provide a `Dockerfile` & `docker-compose.yml`.
-4. Add Audit Logging using Aspect Oriented Programming (AOP).
-
----
-
-## 📸 Screenshots Placeholders
-![Swagger UI](placeholder_for_swagger_ui_screenshot.png)
-![Postman Test](placeholder_for_postman_test_screenshot.png)
-![H2 Database](placeholder_for_h2_screenshot.png)
